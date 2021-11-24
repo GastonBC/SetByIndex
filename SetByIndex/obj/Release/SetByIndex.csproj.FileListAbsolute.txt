@@ -1,0 +1,14 @@
+G:\My Drive\02. ARCHSOURCING BACKOFFICE\15. BIM Managment\RevitPy\CS\Addins\SetByIndex.addin
+G:\My Drive\02. ARCHSOURCING BACKOFFICE\15. BIM Managment\RevitPy\CS\Addins\SetByIndex.dll
+G:\My Drive\02. ARCHSOURCING BACKOFFICE\15. BIM Managment\RevitPy\CS\Addins\SetByIndex.pdb
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\MainWindow.baml
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\MainWindow.g.cs
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\SetByIndex_MarkupCompile.cache
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\SetByIndex.g.resources
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\SetByIndex.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\SetByIndex.dll
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\SetByIndex.pdb
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\bin\release\SetByIndex.addin
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\bin\release\SetByIndex.dll
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\bin\release\SetByIndex.pdb
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Release\SetByIndex.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\SetByIndex.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\SetByIndex.csproj.CoreCompileInputs.cache
+G:\My Drive\02. ARCHSOURCING BACKOFFICE\15. BIM Managment\RevitPy\CS\Addins\WIP\SetByIndex.addin
+G:\My Drive\02. ARCHSOURCING BACKOFFICE\15. BIM Managment\RevitPy\CS\Addins\WIP\SetByIndex.dll
+G:\My Drive\02. ARCHSOURCING BACKOFFICE\15. BIM Managment\RevitPy\CS\Addins\WIP\SetByIndex.pdb
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\SetByIndex.dll
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\SetByIndex.pdb
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\bin\debug\SetByIndex.addin
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\bin\debug\SetByIndex.dll
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\bin\debug\SetByIndex.pdb
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\SetByIndex_MarkupCompile.cache
+C:\Users\Usuario\source\repos\PublicRevitAPI\SetByIndex\SetByIndex\obj\Debug\SetByIndex.g.resources
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\bin\debug\SetByIndex.addin
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\bin\debug\SetByIndex.dll
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\bin\debug\SetByIndex.pdb
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\SetByIndex_MarkupCompile.cache
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\SetByIndex.g.resources
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\SetByIndex.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\SetByIndex.dll
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\SetByIndex.pdb
+C:\Users\Usuario\source\repos\PublicRevitAPI\Sheet-Set-byIndex\SetByIndex\obj\Debug\SetByIndex.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\bin\debug\SetByIndex.addin
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\bin\debug\SetByIndex.dll
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\bin\debug\SetByIndex.pdb
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\SetByIndex.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\MainWindow.baml
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\MainWindow.g.cs
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\SetByIndex_MarkupCompile.cache
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\SetByIndex.g.resources
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\SetByIndex.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\SetByIndex.dll
+C:\Users\Usuario\source\repos\SetByIndex\SetByIndex\obj\Debug\SetByIndex.pdb
