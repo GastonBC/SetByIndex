@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 namespace SetByIndex
 {
     [Autodesk.Revit.Attributes.Transaction(Autodesk.Revit.Attributes.TransactionMode.Manual)]
+    [Autodesk.Revit.DB.Macros.AddInId("00A4C164-52CE-437F-8E11-2C6FA63A0336")]
     public class ThisCommand : IExternalCommand
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)

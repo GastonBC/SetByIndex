@@ -15,8 +15,6 @@ namespace SetByIndex
     [Autodesk.Revit.DB.Macros.AddInId("00A4C164-52CE-437F-8E11-2C6FA63A0334")]
     public class ThisApplication : IExternalApplication
     {
-        RibbonPanel DefaultPanel;
-
         public Result OnShutdown(UIControlledApplication uiApp)
         {
             return Result.Succeeded;
@@ -24,10 +22,10 @@ namespace SetByIndex
 
         public Result OnStartup(UIControlledApplication uiApp)
         {
+
             try
             {
                 #region GAS ADDIN BOILERPLATE
-
                 // Assembly that contains the invoke method
                 string exeConfigPath = Utils.GetExeConfigPath("SetByIndex.dll");
 
