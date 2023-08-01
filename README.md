@@ -1,16 +1,25 @@
 # SetByIndex
 Revit addin to quickly manage printing sets
 
-Readme in progress
+## Installation
 
-Drag the files to your addin folder, your browser may warn you for downloading a dll
-Remember to enable the dll from the download:
+1. Download the compressed file from the releases section
+2. Unzip all files in your revit addins folder
+Normally, this will be the folder. You need to choose your Revit version here
+> C:\ProgramData\Autodesk\Revit\Addins
 
-1. Download the zip file
-2. Right Click and Properties
-3. At the bottom you will see a checkbox option to unblock the dll
 
-![unblockdll](https://user-images.githubusercontent.com/60661612/143253807-42008aef-f5e4-4817-ad52-a73a320b8ec2.png)
+Finally you will need to unblock the DLLs in order to use the addin*
+
+1. Click each DLL file and click on properties
+2. Tick the "Unblock" box
+3. Press Close
+
+This needs to be done for Utilities.dll also
+
+![Unblock](https://github.com/GastonBC/SmartGridBubbles/blob/main/Imgs/unblockdll.png)
+
+*These files are not malicious but Windows will block these types of downloads for safety. You can review all code and even build it yourself if that's something you fancy.
 
 ## Support me
 
