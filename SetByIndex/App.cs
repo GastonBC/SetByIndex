@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Autodesk.Revit.UI;
 using Autodesk.Revit.DB;
 using System.Reflection;
+using Utilities;
 using System.IO;
 
 namespace SetByIndex
@@ -48,7 +49,7 @@ namespace SetByIndex
                 // Button configuration
                 string SetByIndexName = "Set by index";
                 PushButtonData SetByIndexData = new PushButtonData(SetByIndexName, SetByIndexName, exeConfigPath, "SetByIndex.ThisCommand");
-                SetByIndexData.LargeImage = Utils.RetriveImage("SetByIndex.Resources.SetByIndex32x32.ico"); // Pushbutton image
+                SetByIndexData.LargeImage = Utils.RetriveImage("SetByIndex.Resources.SetByIndex32x32.ico", Assembly.GetExecutingAssembly()); // Pushbutton image
                 SetByIndexData.ToolTip = "Create printing sheet sets from sheet schedules";
                 RibbonItem CadDetectiveButton = DefaultPanel.AddItem(SetByIndexData); // Add pushbutton
 
