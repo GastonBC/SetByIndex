@@ -26,25 +26,14 @@ namespace SetByIndex
         {
             try
             {
-                string ThisDllPath = Assembly.GetExecutingAssembly().Location;
+                #region GAS ADDIN BOILERPLATE
 
-                String exeConfigPath = Path.GetDirectoryName(ThisDllPath) + "\\SetByIndex.dll";
+                // Assembly that contains the invoke method
+                string exeConfigPath = Utils.GetExeConfigPath("SetByIndex.dll");
 
-                string PanelName = "Gas Tools";
-
-
-                try
-                {
-                    DefaultPanel = uiApp.CreateRibbonPanel(PanelName);
-                }
-
-                // Panel already exists
-                catch (Autodesk.Revit.Exceptions.ArgumentException)
-                {
-                    List<RibbonPanel> Panels = uiApp.GetRibbonPanels();
-                    DefaultPanel = Panels.Find(p => p.Name.Equals(PanelName));
-                }
-
+                // Finds and creates the tab, finds and creates the panel
+                RibbonPanel DefaultPanel = Utils.GetRevitPanel(uiApp, GasToolsGlobals.PANEL_NAME);
+                #endregion
 
                 // Button configuration
                 string SetByIndexName = "Set by index";
