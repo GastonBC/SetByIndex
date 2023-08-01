@@ -5,7 +5,9 @@ Revit addin to quickly manage printing sets
 
 1. Download the compressed file from the releases section
 2. Unzip all files in your revit addins folder
+
 Normally, this will be the folder. You need to choose your Revit version here
+
 > C:\ProgramData\Autodesk\Revit\Addins
 
 
