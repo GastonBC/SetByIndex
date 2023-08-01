@@ -12,4 +12,4 @@ Remember to enable the dll from the download:
 
 ![unblockdll](https://user-images.githubusercontent.com/60661612/143253807-42008aef-f5e4-4817-ad52-a73a320b8ec2.png)
 
-[Donate to help me develop more projects!](https://www.paypal.com/donate/?hosted_button_id=9UY2TS7VVSRSJ)https://www.paypal.com/donate/?hosted_button_id=9UY2TS7VVSRSJ
+[Donate to help me develop more projects!](https://www.paypal.com/donate/?hosted_button_id=9UY2TS7VVSRSJ)
