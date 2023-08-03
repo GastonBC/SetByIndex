@@ -1,5 +1,5 @@
-# SetByIndex
-Revit addin to quickly manage printing sets
+## Set By Index
+Create printing sets easier by selecting a sheet schedule (like the one in your project's cover) instead of using the default Revit window
 
 ## Installation
 
