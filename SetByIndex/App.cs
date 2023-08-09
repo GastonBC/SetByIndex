@@ -30,7 +30,7 @@ namespace SetByIndex
                 string exeConfigPath = Utils.GetExeConfigPath("SetByIndex.dll");
 
                 // Finds and creates the tab, finds and creates the panel
-                RibbonPanel DefaultPanel = Utils.GetRevitPanel(uiApp, GasToolsGlobals.PANEL_NAME);
+                RibbonPanel DefaultPanel = Utils.GetRevitPanel(uiApp, GlobalVars.PANEL_NAME, GlobalVars.TAB_NAME);
                 #endregion
 
                 // Button configuration
